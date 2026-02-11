@@ -30,17 +30,6 @@ Türkiye'de **İnternet ve Ağ Teknolojileri** öğrencisiyim. Yazılımın dona
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SENIN_KULLANICI_ADIN&show_icons=true&theme=gotham" height="150" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SENIN_KULLANICI_ADIN&layout=compact&theme=gotham" height="150" alt="languages graph"  />
-</div>
-
----
-
 ### 📫 İletişim
 
 [<img src="www.linkedin.com/in/hüseyin-erdoğan-a1a235283"/>]
